@@ -1,1 +1,6 @@
-# new-string-builder
+
+<h2>new-string-builder</h2>
+
+<p>Проект разработан исключительно в учебных целях</p>
+
+<p>Своя реализация StringBuilder с добавлением метода undo()</p>
